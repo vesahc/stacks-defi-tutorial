@@ -1,0 +1,3 @@
+#V2
+(contract-call? .beanstalk-exchange provide-liquidity u1000 u500)
+(contract-call? .magic-beans mint u5000 tx-sender)
